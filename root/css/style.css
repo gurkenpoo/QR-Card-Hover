@@ -1,3 +1,4 @@
+/*----GENERAL-STYLE----*/
 * {
     box-sizing: border-box;
 }
@@ -34,6 +35,12 @@ body {
 }
 .text {
     width: 70%;
+}
+.mainText {
+    color: hsl(218, 44%, 22%);
+}
+.cardText {
+    color: hsl(212, 9%, 65%);
 }
 
 .attribution { 
